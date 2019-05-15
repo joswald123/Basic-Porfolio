@@ -1,0 +1,49 @@
+
+#full {
+    width: 100%;
+    overflow: auto;
+    clear: both;
+    background:#fff;
+    height: 80px;
+    margin: 0 auto;
+  }
+  
+  
+aside {
+  background:#4aaaa5;
+  float: left;
+  width: 225px;
+  height:80px;
+  margin-left: 250px;
+  color: #fff;
+  text-align: center;
+  font-size: 30px;
+
+}
+
+links {
+  padding-top: 30px;
+  float: right;
+  width: 25%;
+  height:50%;
+  margin-left: 30px;
+  color: #777777;
+  text-decoration: none;
+
+}
+
+a:link    {
+  /* Applies to all unvisited links */
+  text-decoration:  none;
+  font-weight:      bold;
+  color: #777777;
+}
+
+  .aboutme  {  
+      margin: 0 auto;
+      width: 50%;
+      border: 1px solid #777777;
+      padding: 10px;
+
+    }
+
