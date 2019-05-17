@@ -1,0 +1,118 @@
+
+body {
+    background: #fff;
+}
+
+
+#full {
+    width: 1024px;
+    clear: both;
+    background:#fff;
+    height: 60px;
+    margin: 0 auto;
+}
+  
+  
+aside {
+  background:#4aaaa5;
+  float: left;
+  width: 225px;
+  height: 85px;
+  margin-left: 30px;
+  margin-top: -25px;
+  color: #fff;
+  text-align: center;
+  font-size: 30px;
+ 
+
+}
+
+
+h1 {
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+}
+
+.links {
+  padding-top: 65px;
+  float: right;
+  margin-right: -100px;
+  margin-top: -50px;
+  color: lightgrey;
+  text-decoration: none;
+
+}   
+
+.NavBar {
+  float: relative;
+  padding: 10px 20px 8px 100px;
+}
+
+.logo {
+
+    padding-bottom: 10px;
+}
+
+.container  {  
+    width: 100%;
+    padding: 30px 90px 100px 90px;
+    background: url("../images/floor-tile.png");
+    border-top: 2px solid lightgray;
+   
+}
+
+.main {
+    width: 100%;
+    max-width: 1000px;
+    background: #fff;
+    margin: auto;
+    padding: 60px;
+    margin-top: 50px;
+    box-shadow: 0px 1px 10px rgb(0, 0, 0, 0.4);
+
+}
+    
+.titulo {
+    color: #4aaaa5;
+    font-size: 40px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px 1px #4aaaa5;
+    
+   
+}
+
+.main img{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    
+
+}
+p {
+    font: sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 20px;
+    text-align: justify;
+}   
+
+.contactinfo {
+    padding-left: 20px;
+}
+ 
+.footing {
+    background: #666666;
+    position: fixed;
+    width:  100%;
+    border-top: 5px solid #4aaaa5;
+    height: 30px;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    color: #fff;
+    margin-bottom: center;
+    }
+
